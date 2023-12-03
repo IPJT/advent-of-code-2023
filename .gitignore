@@ -133,3 +133,5 @@ dist
 # Build files
 *.js.map
 *.js
+
+.vscode/
